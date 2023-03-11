@@ -3,7 +3,7 @@ LINE = '--------'
 COLOR_PREFIX = "Color: "
 FILL_PREFIX = "Filled: "
 SHORT_PREFIX = "Shortest Triangle Side: "
-AREA_PREFIX = "Area of the rectangel: "
+AREA_PREFIX = "Area of the rectangle: "
 
 
 class Shape:
